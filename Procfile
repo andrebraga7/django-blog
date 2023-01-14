@@ -1,0 +1,1 @@
+web: gunicorn penso_logo_desisto.wsgi
